@@ -1,6 +1,6 @@
 # 基础
 # 1.各种常量 字符串 转义字符 格式化 等等
-# 格式化方法 python 索引从0开始 转换至字符串的工作将由 format 方法自 动完成
+# 格式化方法 python 索引从0开始 转换至字符串的工作将由 format 方法自动完成
 age = 20
 name = 'Swaroop'
 print('{0} was {1} years old when he wrote this book'.format(name, age))
