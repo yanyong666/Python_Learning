@@ -1,0 +1,6 @@
+2019-12-07 12:26:30,728 - root - WARNING - logger warning message
+2019-12-07 12:26:30,743 - root - ERROR - logger error message
+2019-12-07 12:26:30,743 - root - CRITICAL - logger critical message
+2019-12-07 12:30:49,456 - root - WARNING - logger warning message
+2019-12-07 12:30:49,456 - root - ERROR - logger error message
+2019-12-07 12:30:49,456 - root - CRITICAL - logger critical message

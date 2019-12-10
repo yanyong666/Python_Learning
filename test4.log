@@ -1,0 +1,3 @@
+2019-12-08 20:59:59,177 - root - WARNING - logger warning message
+2019-12-08 20:59:59,178 - root - ERROR - logger error message
+2019-12-08 20:59:59,178 - root - CRITICAL - logger critical message

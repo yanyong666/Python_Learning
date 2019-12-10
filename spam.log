@@ -1,0 +1,15 @@
+2019-12-07 13:27:25,060 - simple_example - DEBUG - debug message
+2019-12-07 13:27:25,060 - simple_example - INFO - info message
+2019-12-07 13:27:25,060 - simple_example - WARNING - warn message
+2019-12-07 13:27:25,060 - simple_example - ERROR - error message
+2019-12-07 13:27:25,060 - simple_example - CRITICAL - critical message
+2019-12-07 13:29:13,112 - simple_example - DEBUG - debug message
+2019-12-07 13:29:13,112 - simple_example - INFO - info message
+2019-12-07 13:29:13,112 - simple_example - WARNING - warn message
+2019-12-07 13:29:13,112 - simple_example - ERROR - error message
+2019-12-07 13:29:13,112 - simple_example - CRITICAL - critical message
+2019-12-07 13:29:50,589 - simple_example - DEBUG - debug message
+2019-12-07 13:29:50,589 - simple_example - INFO - info message
+2019-12-07 13:29:50,589 - simple_example - WARNING - warn message
+2019-12-07 13:29:50,589 - simple_example - ERROR - error message
+2019-12-07 13:29:50,589 - simple_example - CRITICAL - critical message

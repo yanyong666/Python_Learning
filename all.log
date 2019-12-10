@@ -1,0 +1,8 @@
+2019-11-29 11:36:45,821 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [测试log] hello, world
+2019-11-29 12:01:48,087 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [测试log] hello, world
+2019-11-29 12:03:10,421 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [测试log] hello, world
+2019-11-29 12:16:05,564 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [测试log] hello, world
+2019-11-29 12:16:27,057 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [测试log] hello, world
+2019-11-29 20:27:29,149 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [测试log] hello, world
+2019-11-29 21:31:19,386 - D:/PycharmProjects/from_logging_import_handles.py[line:36] - INFO: [显示log] hello, world
+2019-11-29 21:31:19,388 - D:/PycharmProjects/from_logging_import_handles.py[line:37] - WARNING: [警告log] hello, world
